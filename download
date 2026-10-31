@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# 大きなデータ・学習結果は GitHub に上げない
+raw_episodes/
+so101_stamp_sim*/
+outputs/
+SO-ARM100*/
+eval_*/

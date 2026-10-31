@@ -1,0 +1,6 @@
+lerobot[dataset,training,feetech]==0.6.1
+mujoco
+mediapy
+imageio-ffmpeg
+matplotlib
+pillow
